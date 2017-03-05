@@ -6,4 +6,15 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+* What new skills have you learned?
+- researching html syntax in MDN
+- making html codes
+
+* What has been easy?
+Whenever I look for a new html tag, there is always reference in the web.
+
+* What has been difficult?
+There is nothing really difficult yet.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+MDN HTML element reference is enough so far.
